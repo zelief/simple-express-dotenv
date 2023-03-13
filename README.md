@@ -14,11 +14,11 @@ A simple example on how to use .env file in an Express.js API using dotenv.
 
 ### Installing
 
-`yarn install`
+`yarn install` or `npm install`
 
 ### Executing program
 
-* `yarn start:dev`
+* `yarn start:dev` or `npm run start:dev`
 * go to http://localhost:3333/
 
 ## Screenshot
