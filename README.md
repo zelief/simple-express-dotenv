@@ -10,7 +10,7 @@ A simple example on how to use .env file in an Express.js API using dotenv.
 
 ### Dependencies
 
-* Yarn
+* Node JS & npm
 
 ### Installing
 
